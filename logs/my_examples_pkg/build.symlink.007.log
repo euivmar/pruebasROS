@@ -1,0 +1,18 @@
+Linked: (/home/user/catkin_ws/devel/.private/my_examples_pkg/lib/pkgconfig/my_examples_pkg.pc, /home/user/catkin_ws/devel/lib/pkgconfig/my_examples_pkg.pc)
+Symlinking /home/user/catkin_ws/devel/lib/python3/dist-packages/my_examples_pkg/__init__.py
+Symlinking /home/user/catkin_ws/devel/lib/python3/dist-packages/my_examples_pkg/msg/_Age.py
+Symlinking /home/user/catkin_ws/devel/lib/python3/dist-packages/my_examples_pkg/msg/__init__.py
+Symlinking /home/user/catkin_ws/devel/include/my_examples_pkg/Age.h
+Symlinking /home/user/catkin_ws/devel/share/common-lisp/ros/my_examples_pkg/msg/_package_Age.lisp
+Symlinking /home/user/catkin_ws/devel/share/common-lisp/ros/my_examples_pkg/msg/my_examples_pkg-msg.asd
+Symlinking /home/user/catkin_ws/devel/share/common-lisp/ros/my_examples_pkg/msg/Age.lisp
+Symlinking /home/user/catkin_ws/devel/share/common-lisp/ros/my_examples_pkg/msg/_package.lisp
+Symlinking /home/user/catkin_ws/devel/share/roseus/ros/my_examples_pkg/manifest.l
+Symlinking /home/user/catkin_ws/devel/share/roseus/ros/my_examples_pkg/msg/Age.l
+Symlinking /home/user/catkin_ws/devel/share/gennodejs/ros/my_examples_pkg/_index.js
+Symlinking /home/user/catkin_ws/devel/share/gennodejs/ros/my_examples_pkg/msg/_index.js
+Symlinking /home/user/catkin_ws/devel/share/gennodejs/ros/my_examples_pkg/msg/Age.js
+Symlinking /home/user/catkin_ws/devel/share/my_examples_pkg/cmake/my_examples_pkg-msg-extras.cmake
+Linked: (/home/user/catkin_ws/devel/.private/my_examples_pkg/share/my_examples_pkg/cmake/my_examples_pkgConfig.cmake, /home/user/catkin_ws/devel/share/my_examples_pkg/cmake/my_examples_pkgConfig.cmake)
+Linked: (/home/user/catkin_ws/devel/.private/my_examples_pkg/share/my_examples_pkg/cmake/my_examples_pkgConfig-version.cmake, /home/user/catkin_ws/devel/share/my_examples_pkg/cmake/my_examples_pkgConfig-version.cmake)
+Symlinking /home/user/catkin_ws/devel/share/my_examples_pkg/cmake/my_examples_pkg-msg-paths.cmake
