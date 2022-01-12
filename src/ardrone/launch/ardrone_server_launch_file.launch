@@ -1,0 +1,5 @@
+<launch>
+    <!-- My Package launch file -->
+    <node pkg="ardrone" type="ardrone_action_server.py" name="ardrone_server"  output="screen">
+    </node>
+</launch>

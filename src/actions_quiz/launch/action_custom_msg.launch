@@ -1,0 +1,5 @@
+<launch>
+    <!-- My Package launch file -->
+    <node pkg="actions_quiz" type="action_custom_msg.py" name="action_custom"  output="screen">
+    </node>
+</launch>
